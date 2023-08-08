@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/HandDetect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HandDetect/ControlMouseWithHandTracking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/letter-recognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/letter-recognition/ML-letter-recognition" vcs="Git" />
+  </component>
+</project>
